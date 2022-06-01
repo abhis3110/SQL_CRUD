@@ -1,1 +1,1 @@
-# SQL_CRUD
+Exploring Basic SQLite operations
